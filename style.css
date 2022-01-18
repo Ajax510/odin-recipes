@@ -1,0 +1,16 @@
+head {
+  content: center;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+li {
+  text-align: center;
+  font-size: larger;
+  width: auto;
+}
+footer {
+  text-align: center;
+}
