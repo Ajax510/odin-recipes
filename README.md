@@ -3,6 +3,7 @@ https://ajax510.github.io/odin-recipes/
 
 What are the diffrences between external, internal, and inline CSS?
 Extenal CSS is when you create a separate file for the CSS.
+
 <head>
 ex. <link rel= "stylesheet" href= "style.css">
 </head>
