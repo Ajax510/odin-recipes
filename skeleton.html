@@ -16,9 +16,13 @@
         return num1 * num2;
       }
 
-      capitalize = (string) => {};
+      capitalize = (str) => {
+        return str.charAt(0).toUpperCase() + str.slice(1);
+      };
 
-      lastLetter = (string) => {};
+      lastLetter = (str) => {
+        return str.slice(-1);
+      };
     </script>
   </body>
 </html>
